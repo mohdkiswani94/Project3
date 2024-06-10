@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-10T19:38:58 EET" name="Default suite" finished-at="2024-06-10T19:39:12 EET" duration-ms="13379">
+    <groups>
+    </groups>
+    <test started-at="2024-06-10T19:38:58 EET" name="Default test" finished-at="2024-06-10T19:39:12 EET" duration-ms="13379">
+      <class name="TestProject3">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TestProject3@1ecee32c]" started-at="2024-06-10T19:38:58 EET" name="Setup" finished-at="2024-06-10T19:38:59 EET" duration-ms="777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Login()[pri:1, instance:TestProject3@1ecee32c]" started-at="2024-06-10T19:38:59 EET" name="Login" finished-at="2024-06-10T19:38:59 EET" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="TestTitle()[pri:2, instance:TestProject3@1ecee32c]" started-at="2024-06-10T19:38:59 EET" name="TestTitle" finished-at="2024-06-10T19:38:59 EET" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTitle -->
+        <test-method signature="TestSortFromeLowtohigh()[pri:3, instance:TestProject3@1ecee32c]" started-at="2024-06-10T19:38:59 EET" name="TestSortFromeLowtohigh" finished-at="2024-06-10T19:39:02 EET" duration-ms="2071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSortFromeLowtohigh -->
+        <test-method signature="VerifiyLowestPrice()[pri:4, instance:TestProject3@1ecee32c]" started-at="2024-06-10T19:39:02 EET" name="VerifiyLowestPrice" finished-at="2024-06-10T19:39:04 EET" duration-ms="2027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifiyLowestPrice -->
+        <test-method signature="DropList()[pri:5, instance:TestProject3@1ecee32c]" started-at="2024-06-10T19:39:04 EET" name="DropList" finished-at="2024-06-10T19:39:06 EET" duration-ms="2069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DropList -->
+        <test-method signature="SortNameZtoA()[pri:6, instance:TestProject3@1ecee32c]" started-at="2024-06-10T19:39:06 EET" name="SortNameZtoA" finished-at="2024-06-10T19:39:08 EET" duration-ms="2063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortNameZtoA -->
+        <test-method signature="SortPriceltoh()[pri:7, instance:TestProject3@1ecee32c]" started-at="2024-06-10T19:39:08 EET" name="SortPriceltoh" finished-at="2024-06-10T19:39:10 EET" duration-ms="2066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortPriceltoh -->
+        <test-method signature="SortPricehtol()[pri:8, instance:TestProject3@1ecee32c]" started-at="2024-06-10T19:39:10 EET" name="SortPricehtol" finished-at="2024-06-10T19:39:12 EET" duration-ms="2065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortPricehtol -->
+      </class> <!-- TestProject3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
